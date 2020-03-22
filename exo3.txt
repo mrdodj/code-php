@@ -1,0 +1,32 @@
+<?php
+	
+echo"<h2> Centrale d'achats</h2>";
+echo"<h4>Commande clients</h4>";
+try{$file = fopen("commande clients.txt", "r");
+$array = explode("|", fgets($file));
+ echo "<table border=\"1\" >";
+ echo "<tr><td><b> Numero de commande:</b></td><td><b>Numero Clien: </b></td>";
+ echo "<tr><td><b> Date de commande:</b></td><td><b>Designation Article: </b></td>";
+ echo "<tr><td><b> Quantite(Pal):</b></td><td><b>Prix Unitaire (DH)</b></td>";
+ echo "<tr><td><b> Date de livraision::</b></td><td><b>Adresse de client</b></td> </tr>";
+while(!feof($file)){
+    	$array = explode("|", fgets($file));
+    	echo "<tr>";
+   		echo " <td> " , $array[0] , "</td>";
+   		echo " <td> " , $array[1] , "</td>";
+   		echo " <td> " , $array[2] , "</td>";
+   		echo " <td> "  , $array[3] , "</td>";
+   		echo " <td> "  , $array[4] , "</td>";
+   		echo " <td> "  , $array[5] , " </td>";
+   		echo " <td> "  , $array[6] , " </td>";
+   		echo " <td> "  , $array[7] , " </td>";
+   		echo"</tr>";
+}
+echo"</table>";
+fclose($file);   
+
+}
+ catch (Exception $e) {
+    echo 'Caught exception: ',  $e->getMessage(), "\n";
+}
+?>

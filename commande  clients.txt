@@ -1,0 +1,12 @@
+242005001 | 1236 | 24 octobre 2005 | Tomates | 4 | 4.0|25 octobre 2005|rue Sidi El Khadir, Derb El Ouarda,Casablanca
+252005002 | 1235 | 24 octobre 2005 | kiwi | 6 | 3.5|25 octobre 2005|77, avenue Hassan II ,Casablanca
+252005003 | 1234 | 25 octobre 2005 | Tomates | 8 | 3.0|25 octobre 2005|bd Mly Abdallah, 11100,Sale
+242005004 | 1236 | 25 octobre 2005 | pain  | 4 | 4.0|25 octobre 2005|bd Aba Chouaib Doukali, hay Chifa II, Grand Casablanca
+252005005 | 1235 | 25 octobre 2005 | citron | 6 | 3.5|26 octobre 2005| rue Tarik Bnou Ziad, c/o faculte de medecine, Grand Casablanca
+252005006 | 1234 | 25 octobre 2005 | orange| 8 | 3.0|26 octobre 2005|hay Charaf bloc 5 n°2, bd. Mohammed V,Beni Mellal
+242005007 | 1236 | 26 octobre 2005 | Tomates | 4 | 4.0|27 octobre 2005|avenue Sidi Mohamed Ben Abdallah, sect. C, c.y.m , Rabat
+252005008 | 1235 | 26 octobre 2005 | banane | 6 | 3.5|27 octobre 2005| 94, rue Beni Malek, Aviation ,Rabat
+252005009 | 1234 | 26 octobre 2005 | carrot| 8 | 3.0|28 octobre 2005| 57, rue Mostapha El Maani, c. com. Riad ,Casablanca
+242005010 | 1236 | 27 octobre 2005 | Tomates | 4 | 4.0|28 octobre 2005| 6, rue 6 Octobre -ex Convention, Grand Casablanca
+252005011 | 1235 | 27 octobre 2005 | Onions | 6 | 3.5|28 octobre 2005| BR 3 B n°5, 3°et. lot. A, Grand Casablanca
+252005012 | 1234 | 28 octobre 2005 | Pommes | 8 | 3.0|29 octobre 2005|443, bd Oued Oum Errabia ,casablanca
